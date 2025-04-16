@@ -1,5 +1,7 @@
 E-commerce Sales Analysis using Excel
+
 Project Description
+
 This project focuses on analyzing sales data for an e-commerce business using Microsoft Excel. The dataset includes order-level details such as customer information, product categories, order dates, shipping types, discounts, and profit margins.
 
 Objectives
